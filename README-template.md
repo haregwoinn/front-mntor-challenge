@@ -12,8 +12,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [my fist challenge](https://haregwoinn.github.io/myfirtchallege/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Website - [haregewoin](https://www.your-site.com)
+- Frontend Mentor - [@maraki](https://www.frontendmentor.io/profile/yourusername)
 
 
 ### Built with
