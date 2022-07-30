@@ -10,6 +10,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+## Deploying your project
+
+- [GitHub Pages](https://pages.github.com/)
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
