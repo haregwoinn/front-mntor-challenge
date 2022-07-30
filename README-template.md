@@ -12,8 +12,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Website - [haregewoin](https://www.your-site.com)
-- Frontend Mentor - [@maraki](https://www.frontendmentor.io/profile/yourusername)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
 ### Built with
